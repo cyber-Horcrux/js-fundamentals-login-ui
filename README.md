@@ -34,7 +34,7 @@ This repo exists to show real learning progress: from scratchpad practice snippe
 | CSS3 | Styling, gradients, glassmorphism, responsive design |
 | JavaScript (ES6+) | Form validation, DOM manipulation, fundamentals practice |
 
-No frameworks, no build tools — intentionally kept dependency-free so it's easy to read and run.
+No frameworks, no build tools — intentionally kept dependency-free so it's easy to read and run..
 
 ---
 
